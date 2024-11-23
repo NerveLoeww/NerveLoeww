@@ -30,7 +30,7 @@
 Here are some of the key projects I’ve worked on:
 
 #### 1. [📊 World Population Exploratory Data Analysis](https://github.com/yourusername/covid19-eda)
-- **Objective**: Analyzed global COVID-19 data to identify trends and key metrics.
+- **Objective**: Analyzed World Population Data for the visual study of population.
 - **Skills**: Python, Pandas, Matplotlib, Seaborn
 - **Output**: Insights into case distribution, mortality rates, and country-wise trends.
 
