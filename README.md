@@ -34,7 +34,7 @@ Here are some of the key projects I’ve worked on:
 - **Skills**: Python, Pandas, Matplotlib, Seaborn
 - **Output**: Insights into case distribution, mortality rates, and country-wise trends.
 
-#### 2. [📈 Customer Segmentation using K-Means Clustering](https://github.com/yourusername/customer-segmentation)
+#### 2. [📈Amazon-Web-Scraper-Project](https://github.com/NerveLoeww/Amazon-Web-Scraper-Project)
 - **Objective**: Group customers based on purchasing behaviors.
 - **Skills**: Python, Scikit-learn, Tableau
 - **Output**: Customer segments for targeted marketing strategies.
