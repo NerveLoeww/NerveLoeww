@@ -30,7 +30,7 @@
 Here are some of the key projects I’ve worked on:
 
 
-#### 1. [📉Data Visualisation Projects](https://github.com/NerveLoeww/Data-Visualisations)
+#### 1. [📉Data Visualisation Projects](https://github.com/shhruthii/Data-Visualisations)
 - **Objective**: Plot Line Chart(basic , multiple), Plot Bar Charts( for single variable, 2 variables, and multiple variables), Scatter Plots(for checking relation and dependency between two diff. variables) , Made Pie Charts( Donut Charts) 
 - **Skills**: Matplotlib. pyplot, subplot , Seaborn , Plotly, Ploty-Express
 - **Output**: Line Chart, Plot Bar, Pie Chart, Scatter Plots, Distribution Charts, Box Plots, Violin Charts, Strip Plots, Swarm Plots, Joint Plots, Heat Maps, 3D Charts, Statistical Charts, Financial Charts
