@@ -35,12 +35,12 @@ Here are some of the key projects I’ve worked on:
 - **Skills**: Matplotlib. pyplot, subplot , Seaborn , Plotly, Ploty-Express
 - **Output**: Line Chart, Plot Bar, Pie Chart, Scatter Plots, Distribution Charts, Box Plots, Violin Charts, Strip Plots, Swarm Plots, Joint Plots, Heat Maps, 3D Charts, Statistical Charts, Financial Charts
 
-#### 2. [📊 World Population Exploratory Data Analysis](https://github.com/NerveLoeww/EDA-with-Pandas)
+#### 2. [📊 World Population Exploratory Data Analysis](https://github.com/shhruthii/EDA-with-Pandas)
 - **Objective**: Analyzed World Population Data for the visual study of population.
 - **Skills**: Python, Pandas, Matplotlib, Seaborn
 - **Output**: Insights into case distribution, mortality rates, and country-wise trends.
 
-#### 3. [📈Amazon-Web-Scraper-Project](https://github.com/NerveLoeww/Amazon-Web-Scraper-Project)
+#### 3. [📈Amazon-Web-Scraper-Project](https://github.com/shhruthii/Amazon-Web-Scraper-Project)
 - **Objective**: Group customers based on purchasing behaviors.
 - **Skills**: Python, Scikit-learn, Tableau
 - **Output**: Customer segments for targeted marketing strategies.
