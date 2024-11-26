@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shruti Mahulkar
+# Hi there! 👋 I'm Shruti M
 🌟 **Enthusiastic Data Analyst** | 🌐 **Turning Data Into Insights**
 
 ---
