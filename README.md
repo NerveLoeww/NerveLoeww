@@ -39,10 +39,11 @@ Here are some of the key projects I’ve worked on:
 - **Skills**: Python, Scikit-learn, Tableau
 - **Output**: Customer segments for targeted marketing strategies.
 
-#### 3. [📉 Sales Dashboard in Power BI](https://github.com/yourusername/sales-dashboard)
-- **Objective**: Built an interactive dashboard for tracking sales performance.
-- **Skills**: Power BI, SQL, Data Cleaning
-- **Output**: Visualization of KPIs like revenue, profit margins, and sales trends.
+#### 3. [📉Data Visualisation](https://github.com/yourusername/sales-dashboard)
+- **Objective**: Plot Line Chart(basic , multiple), Plot Bar Charts( for single variable, 2 variables, and multiple variables), Scatter Plots(for checking relation and dependency between two diff. variables) , Made Pie Charts( Donut Charts) 
+- **Skills**: Matplotlib. pyplot, subplot , Seaborn , Plotly, Ploty-Express
+- **Output**: Line Chart, Plot Bar, Pie Chart, Scatter Plots, Distribution Charts, Box Plots, Violin Charts, Strip Plots, Swarm Plots, Joint Plots, Heat Maps, 3D Charts, Statistical Charts, Financial Charts 
+
 
 ---
 
