@@ -29,20 +29,21 @@
 ### 📂 Projects
 Here are some of the key projects I’ve worked on:
 
-#### 1. [📊 World Population Exploratory Data Analysis](https://github.com/NerveLoeww/EDA-with-Pandas)
+
+#### 1. [📉Data Visualisation Projects](https://github.com/NerveLoeww/Data-Visualisations)
+- **Objective**: Plot Line Chart(basic , multiple), Plot Bar Charts( for single variable, 2 variables, and multiple variables), Scatter Plots(for checking relation and dependency between two diff. variables) , Made Pie Charts( Donut Charts) 
+- **Skills**: Matplotlib. pyplot, subplot , Seaborn , Plotly, Ploty-Express
+- **Output**: Line Chart, Plot Bar, Pie Chart, Scatter Plots, Distribution Charts, Box Plots, Violin Charts, Strip Plots, Swarm Plots, Joint Plots, Heat Maps, 3D Charts, Statistical Charts, Financial Charts
+
+#### 2. [📊 World Population Exploratory Data Analysis](https://github.com/NerveLoeww/EDA-with-Pandas)
 - **Objective**: Analyzed World Population Data for the visual study of population.
 - **Skills**: Python, Pandas, Matplotlib, Seaborn
 - **Output**: Insights into case distribution, mortality rates, and country-wise trends.
 
-#### 2. [📈Amazon-Web-Scraper-Project](https://github.com/NerveLoeww/Amazon-Web-Scraper-Project)
+#### 3. [📈Amazon-Web-Scraper-Project](https://github.com/NerveLoeww/Amazon-Web-Scraper-Project)
 - **Objective**: Group customers based on purchasing behaviors.
 - **Skills**: Python, Scikit-learn, Tableau
 - **Output**: Customer segments for targeted marketing strategies.
-
-#### 3. [📉Data Visualisation](https://github.com/yourusername/sales-dashboard)
-- **Objective**: Plot Line Chart(basic , multiple), Plot Bar Charts( for single variable, 2 variables, and multiple variables), Scatter Plots(for checking relation and dependency between two diff. variables) , Made Pie Charts( Donut Charts) 
-- **Skills**: Matplotlib. pyplot, subplot , Seaborn , Plotly, Ploty-Express
-- **Output**: Line Chart, Plot Bar, Pie Chart, Scatter Plots, Distribution Charts, Box Plots, Violin Charts, Strip Plots, Swarm Plots, Joint Plots, Heat Maps, 3D Charts, Statistical Charts, Financial Charts 
 
 
 ---
