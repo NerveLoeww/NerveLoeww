@@ -48,10 +48,6 @@ Here are some of the key projects I’ve worked on:
 
 ---
 
-### 🎨 Portfolio Dashboard
-🌟 **Check out my interactive visualizations and dashboards on Tableau Public**  
-[![Tableau](https://img.shields.io/badge/-Tableau_Public-22A9E0?logo=tableau&logoColor=white)](https://public.tableau.com/profile/yourusername)
-
 ---
 
 ### 📊 GitHub Stats
@@ -62,11 +58,10 @@ Here are some of the key projects I’ve worked on:
 
 ### 🌐 Let's Connect!
 - [![LinkedIn](https://www.linkedin.com/in/shruti-788kl/)  
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-F4A261)](https://yourportfolio.com)  
+
 
 📧 **Email**: shhruu89@gmail.com 
 
 ---
 
-![Footer](https://via.placeholder.com/1000x50?text=Thank+You+for+Visiting!)
-<!-- Replace the above placeholder with a custom footer image -->
+## Thankyou!
