@@ -58,6 +58,9 @@ Here are some of the key projects I’ve worked on:
 
 ### 🌐 Let's Connect!
 - [![LinkedIn](https://www.linkedin.com/in/shruti-788kl/)  
+- [![Portfolio](https://go.giglancer.app/me/shruti)  
+
+
 
 
 📧 **Email**: shhruu89@gmail.com 
